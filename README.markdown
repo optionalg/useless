@@ -131,7 +131,7 @@ with:
 `gcc -DLOGGER_ENABLE -Iinclude -o main main.c src/logger.c`
 
 
-~~~~~~~~~~~~~~~~~~~~ {#example .c .numberLines}
+~~~~~~~~~~~~~~~~~~~~ {.c .numberLines}
 #include "logger.h"
 #include <time.h>
 #include <stdio.h>
